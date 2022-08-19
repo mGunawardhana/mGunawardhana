@@ -1,9 +1,5 @@
 
-<center>
-
-![Screenshot (1092)](https://user-images.githubusercontent.com/100486080/185632774-b261433c-c445-49fb-9aba-cf3293888ae7.png)
-
-</center>
+![Screenshot (1042)](https://user-images.githubusercontent.com/100486080/180643023-2eb94135-d586-423a-94af-2d27cd16f622.png)
 
 <!-- <img src ="https://miro.medium.com/max/875/1*gZ9XF80M8yOasLiFUzL07g.png" width = "1000" hight ="200">
  -->
