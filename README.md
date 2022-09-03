@@ -4,7 +4,7 @@
 
 <!-- <img src ="https://miro.medium.com/max/875/1*gZ9XF80M8yOasLiFUzL07g.png" width = "1000" hight ="200">
  -->
-<h1 align="center">Hi 👋, I'm mGunawardhana</h1>
+<h1 align="center">𝕳𝖎 👋, 𝕴'𝖒 𝖒𝕲𝖚𝖓𝖆𝖜𝖆𝖗𝖉𝖍𝖆𝖓𝖆</h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=2ED573&width=600&lines=A+passionate+frontend++developer+from+Sri+Lanka)](https://git.io/typing-svg)
