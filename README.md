@@ -65,9 +65,7 @@
 
 <p><a href="https://www.buymeacoffee.com/mGunawardhana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mGunawardhana" /></a></p><br><br>
 <p/>
+<br>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=d35400&width=700&lines=---------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=F1C40F&width=700&lines=if+you+have+any+bug+or+issue+contact+me+on+what's+app+-+071+9043372)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=d35400&width=700&lines=---------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
+## 𝕴𝖋 𝖞𝖔𝖚 𝖍𝖆𝖛𝖊 𝖆𝖓𝖞 𝖇𝖚𝖌𝖘 𝖔𝖗 𝖎𝖘𝖘𝖚𝖊𝖘 𝖕𝖑𝖊𝖆𝖘𝖊 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖔𝖓 𝖜𝖍𝖆𝖙'𝖘 𝖆𝖕𝖕 - 0719043372
 
