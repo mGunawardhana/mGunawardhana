@@ -20,19 +20,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
   
-- 🌱 I’m currently learning - **Java , Kotlin , JS**
+### - 🌱 I’m currently learning - **Java , Kotlin , JS**
 
-- 👯 I’m looking to collaborate on **Cloud based projects**
+### - 👯 I’m looking to collaborate on **Cloud based projects**
 
-- 📝 I regularly write articles on [https://futuretech1236.blogspot.com](https://futuretech1236.blogspot.com/)
+### - 📝 I regularly write articles on [https://futuretech1236.blogspot.com](https://futuretech1236.blogspot.com/)
 
-- 💬 Ask me about **Java and Html5**
+### - 💬 Ask me about **Java and Html5**
 
-- 👩🏻‍💻  Google dev - https://g.dev/mGunawardhana/
+### - 👩🏻‍💻  Google dev - https://g.dev/mGunawardhana/
 
-- 📫 How to reach me **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
+### - 📫 How to reach me **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
 
-- My NFT collection - https://opensea.io/gst_warrier
+### - 🤑 My NFT collection - https://opensea.io/gst_warrier
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&width=800&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
