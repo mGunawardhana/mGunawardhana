@@ -1,4 +1,4 @@
-<img  src="https://blog.fasset.com/wp-content/uploads/2020/12/1080-Blog-featured-Crypto-vs-2.gif"/>
+<img  src="https://qph.cf2.quoracdn.net/main-qimg-44d27c181e4616821481aaac8baddf34"/>
 
 <!-- <img src ="https://miro.medium.com/max/875/1*gZ9XF80M8yOasLiFUzL07g.png" width = "1000" hight ="200">
  -->
