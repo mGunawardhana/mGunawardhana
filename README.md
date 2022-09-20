@@ -60,11 +60,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=C4E538&width=600&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 
+
+
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio,angular,atom,bash,bootstrap,css,eclipse,figma,flutter,gcp,git,github,go,hibernate,html,idea,java,js,kotlin,linkedin,linux,mysql,nodejs,php,py,spring,svelte,vscode" />
-    </a>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,css,eclipse,figma,gcp,git,github,go,hibernate,html,idea,java,js" />
+  </a>
 </p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=linkedin,linux,mysql,nodejs,php,py,spring,svelte,vscode" />
+  </a>
+</p>
+
+
+
 
 ## Support
 
