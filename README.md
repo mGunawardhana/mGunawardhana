@@ -32,8 +32,24 @@
 
 ### - 📫 How to reach me **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
 
+<br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&width=800&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=C4E538&width=600&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,css,eclipse,figma,gcp,git,github,hibernate,html,idea,java,js" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=linkedin,linux,mysql,nodejs,php,py,spring,svelte,vscode" />
+  </a>
+</p>
+
+<br><br>
 
 <img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cm9c1dtopba5gz6ororwryig94x760uhhpvztvy8&rid=giphy.gif&ct=g"  width="400" height="300"> &nbsp;&nbsp;| &nbsp;&nbsp; <img src = "https://i.pinimg.com/originals/89/67/92/8967925b9d9141e88ced0a9020bdbc5e.gif" width="400" height="300"/>
 
@@ -57,26 +73,6 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
 
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=C4E538&width=600&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
-
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,css,eclipse,figma,gcp,git,github,go,hibernate,html,idea,java,js" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=linkedin,linux,mysql,nodejs,php,py,spring,svelte,vscode" />
-  </a>
-</p>
-
-
-
 
 ## Support
 
