@@ -1,6 +1,4 @@
-
-![2048x1152_mask_neon_red_dark_darkness](https://user-images.githubusercontent.com/100486080/187088311-1f268356-6e47-4090-91ba-79fc437f0846.jpg)
-
+<img  src="https://blog.fasset.com/wp-content/uploads/2020/12/1080-Blog-featured-Crypto-vs-2.gif"/>
 
 <!-- <img src ="https://miro.medium.com/max/875/1*gZ9XF80M8yOasLiFUzL07g.png" width = "1000" hight ="200">
  -->
