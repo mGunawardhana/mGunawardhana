@@ -4,6 +4,13 @@
  -->
 <h1 align="center">𝕳𝖎 👋, 𝕴'𝖒 𝖒𝕲𝖚𝖓𝖆𝖜𝖆𝖗𝖉𝖍𝖆𝖓𝖆</h1>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img align="center" alt="BTC" height="60" width="80" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
+ <img align="center" alt="BNB" height="60" width="80" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
+ <img align="center" alt="ETH" height="60" width="80" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
+  </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=2ED573&width=600&lines=A+passionate+frontend++developer+from+Sri+Lanka)](https://git.io/typing-svg)
 &nbsp;
