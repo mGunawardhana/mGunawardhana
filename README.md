@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://komarev.com/ghpvc/?username=mgunawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="mgunawardhana" />
+      <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E" />
   </a>
 </p>
 
@@ -92,6 +92,8 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
 
 </p>
+
+
 
 ## Support
 
