@@ -39,17 +39,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
   
-### - 🌱 I’m currently learning - **Java , Kotlin , JS**
+### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Java , Kotlin , JS**
 
-### - 👯 I’m looking to collaborate on **Cloud based projects**
+### - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ **Cloud based projects**
 
-### - 📝 I regularly write articles on [https://futuretech1236.blogspot.com](https://futuretech1236.blogspot.com/)
+### - 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [https://futuretech1236.blogspot.com](https://futuretech1236.blogspot.com/)
 
-### - 💬 Ask me about **Java and Html5**
+### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **Java and Html5**
 
-### - 👩🏻‍💻  Google dev - https://g.dev/mGunawardhana/
+### - 👩🏻‍💻  ɢᴏᴏɢʟᴇ ᴅᴇᴠ - https://g.dev/mGunawardhana/
 
-### - 📫 How to reach me **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
+### - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
 
 <br><br>
 
@@ -101,5 +101,5 @@
 <p/>
 <br>
 
-## 𝕴𝖋 𝖞𝖔𝖚 𝖍𝖆𝖛𝖊 𝖆𝖓𝖞 𝖇𝖚𝖌𝖘 𝖔𝖗 𝖎𝖘𝖘𝖚𝖊𝖘 𝖕𝖑𝖊𝖆𝖘𝖊 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖔𝖓 𝖜𝖍𝖆𝖙'𝖘 𝖆𝖕𝖕 - 071 - 733 1792
+## ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢꜱ ᴏʀ ɪꜱꜱᴜᴇꜱ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴏɴ ᴡʜᴀᴛ'ꜱ ᴀᴘᴘ - 071 - 733 1792
 
