@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
-<img src ="https://user-images.githubusercontent.com/100486080/191808546-7650fb79-de35-4e31-a544-2e666cace346.png">
-  </a>
+  <img src ="https://holopin.me/mgunawardhana">
+    </a>
 </p>
 
 <!-- <img src ="https://miro.medium.com/max/875/1*gZ9XF80M8yOasLiFUzL07g.png" width = "1000" hight ="200">
