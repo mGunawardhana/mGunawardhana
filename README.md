@@ -79,9 +79,15 @@
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mGunawardhana&theme=tokyonight" />
   
+  <br><br>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">
+  
+  <br><br>
 
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=navy-gear">
+  
+  <br><br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mGunawardhana&layout=compact&theme=github_dark"/>
   
