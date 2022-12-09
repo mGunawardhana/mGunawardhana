@@ -79,19 +79,33 @@
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mGunawardhana&theme=tokyonight" />
   
+ <p>
+   
+   
   <br><br>
   
+   <p align="center">
+   
   <img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">
   
-  <br><br>
+ <p>
 
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=navy-gear">
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mGunawardhana&layout=compact&theme=github_dark"/>
+ <br>
+
+<p align="center">
+        
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=navy-gear">
   
 <p>
+  
+<br>
+  
+<p align="center">
+             
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mGunawardhana&layout=compact&theme=github_dark"/>
+  
+<p>
+  
 <br>
 
 
