@@ -8,6 +8,13 @@
  -->
 <h1 align="center">𝕳𝖎 👋, 𝕴'𝖒 𝖒𝕲𝖚𝖓𝖆𝖜𝖆𝖗𝖉𝖍𝖆𝖓𝖆</h1>
 
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eq5lhgdw5lkmrsngigso355hli&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31eq5lhgdw5lkmrsngigso355hli&redirect=true)
+
+
+  
+  
 <p align="center">
   <a href="https://skillicons.dev">
    <img align="center" alt="BTC" height="60" width="80" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
