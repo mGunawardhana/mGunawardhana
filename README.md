@@ -81,10 +81,23 @@
   
  <p>
    
+<br>
    
-  <br><br>
+<p align="center">
   
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mGunawardhana&theme=tokyonight&utcOffset=8" />
+  
+ <p>
+   
    <p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mGunawardhana&theme=tokyonight" />
+  
+ <p>
+  
+
+  <br>
+<p align="center">
    
   <img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">
   
