@@ -10,7 +10,12 @@
 
 
 
+<p align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eq5lhgdw5lkmrsngigso355hli&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31eq5lhgdw5lkmrsngigso355hli&redirect=true)
+
+</p>
+
 
 
   
@@ -134,7 +139,7 @@
 <br>
 
 
-<p align="left">
+<p align="center">
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)
 ![Google](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge)
