@@ -75,13 +75,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&width=800&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
 <br><br>
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mGunawardhana&theme=tokyonight" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mGunawardhana&&show_icons=true&count_private=true&theme=github_dark">
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=navy-gear">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mGunawardhana&layout=compact&theme=github_dark"/>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=navy-gear">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mGunawardhana&layout=compact&theme=github_dark"/>
+  
+<p>
+<br>
+
+
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FFA502&width=600&lines=Connect+with+me%3A)](https://git.io/typing-svg)
 <br>
+
 
 <p align="left">
 
