@@ -67,24 +67,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=C4E538&width=600&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=hibernate,html,idea,java,js,jquerymongodb,xd,react,powershell," />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,css,eclipse,figma,gcp,git,github" />
+     <img src="https://skillicons.dev/icons?i=hibernate,html,idea,java,js,bootstrap,jquerymongodb,xd,react,powershell,linux,mysql,nodejs,php" />
+   <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,css,eclipse,figma,gcp,git,github,linkedin,py,spring,svelte,vscode" />
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=linkedin,linux,mysql,nodejs,php,py,spring,svelte,vscode" />
-  </a>
-</p>
 
 <br><br>
 
