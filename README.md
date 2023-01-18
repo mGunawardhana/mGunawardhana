@@ -69,8 +69,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src=
-       "https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,css,eclipse,figma,gcp,git,github,hibernate,html,idea,java,js,jquerymongodb,xd,react,powershell," />
+   <img src="https://skillicons.dev/icons?i=hibernate,html,idea,java,js,jquerymongodb,xd,react,powershell," />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,css,eclipse,figma,gcp,git,github" />
   </a>
 </p>
 
