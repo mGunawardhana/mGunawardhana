@@ -78,7 +78,7 @@
 
 <br><br>
 
-<img  src="https://www.fleetscience.org/sites/default/files/images/ai%20gif.gif"  width="400" height="300"> &nbsp;&nbsp;| &nbsp;&nbsp; <img src = "https://i.pinimg.com/originals/89/67/92/8967925b9d9141e88ced0a9020bdbc5e.gif" width="400" height="300"/>
+<img  src="https://www.fleetscience.org/sites/default/files/images/ai%20gif.gif"  width="400" height="300"> &nbsp;&nbsp;| &nbsp;&nbsp; <img src = "https://static.wixstatic.com/media/4b1cef_54d9baf7b7da4f10aa2ae732d9b99d7a~mv2.gif" width="400" height="300"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&width=800&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
