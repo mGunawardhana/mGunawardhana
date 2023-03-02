@@ -1,8 +1,12 @@
+
+  ![Screenshot (1300)](https://user-images.githubusercontent.com/100486080/194365843-3c0ba56a-ffb0-42aa-88e0-8c80db5467e9.png)
 <p align="center">
   <a href="https://skillicons.dev">
+
   <img src ="https://holopin.me/mgunawardhana">
     </a>
 </p>
+
 
 <!-- <img src ="https://miro.medium.com/max/875/1*gZ9XF80M8yOasLiFUzL07g.png" width = "1000" hight ="200">
  -->
