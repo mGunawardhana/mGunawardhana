@@ -157,5 +157,11 @@
 <p/>
 <br>
 
+
+![Fixing any kind of your issues on code (1)](https://user-images.githubusercontent.com/100486080/222509217-e6331c58-4637-4564-8bf9-dee63dafd508.png)
+
+
+<br>
+
 ## ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢꜱ ᴏʀ ɪꜱꜱᴜᴇꜱ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴏɴ ᴡʜᴀᴛ'ꜱ ᴀᴘᴘ - 071 - 733 1792
 
