@@ -1,5 +1,5 @@
 
-  ![Screenshot (1300)](https://user-images.githubusercontent.com/100486080/194365843-3c0ba56a-ffb0-42aa-88e0-8c80db5467e9.png)
+
 <p align="center">
   <a href="https://skillicons.dev">
 
