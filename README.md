@@ -165,7 +165,7 @@
 ## ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢꜱ ᴏʀ ɪꜱꜱᴜᴇꜱ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴏɴ ᴡʜᴀᴛ'ꜱ ᴀᴘᴘ - 071 - 733 1792
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.upwork.com/freelancers/~01dad061b934d0b744">
 
   <img src ="https://user-images.githubusercontent.com/100486080/223197216-250025b4-c799-42b0-a23f-e805d5cd2508.png">
     </a>
