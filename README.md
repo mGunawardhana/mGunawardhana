@@ -65,7 +65,8 @@
 
 ### - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
 
-### - HIRE ME ON - ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+### - HIRE ME ON - ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=whitehttps://www.upwork.com/freelancers/~01dad061b934d0b744)
+
 
 <br><br>
 
