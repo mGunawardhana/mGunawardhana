@@ -157,17 +157,17 @@
 <br>
 
 
-![Fixing any kind of your issues on code (1)](https://user-images.githubusercontent.com/100486080/222509217-e6331c58-4637-4564-8bf9-dee63dafd508.png)
-
+<!-- ![Fixing any kind of your issues on code (1)](https://user-images.githubusercontent.com/100486080/222509217-e6331c58-4637-4564-8bf9-dee63dafd508.png)
+ -->
 
 <br>
 
 ## ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢꜱ ᴏʀ ɪꜱꜱᴜᴇꜱ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴏɴ ᴡʜᴀᴛ'ꜱ ᴀᴘᴘ - 071 - 733 1792
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.upwork.com/freelancers/~01dad061b934d0b744">
 
   <img src ="https://user-images.githubusercontent.com/100486080/223197216-250025b4-c799-42b0-a23f-e805d5cd2508.png">
     </a>
-</p>
+</p> -->
 
