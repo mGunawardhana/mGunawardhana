@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href="https://skillicons.dev">
 
@@ -165,4 +163,11 @@
 <br>
 
 ## ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢꜱ ᴏʀ ɪꜱꜱᴜᴇꜱ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴏɴ ᴡʜᴀᴛ'ꜱ ᴀᴘᴘ - 071 - 733 1792
+
+<p align="center">
+  <a href="https://skillicons.dev">
+
+  <img src ="https://user-images.githubusercontent.com/100486080/223197216-250025b4-c799-42b0-a23f-e805d5cd2508.png">
+    </a>
+</p>
 
