@@ -25,13 +25,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
   
-### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Java , Kotlin , JS**
+### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Spring, Spring-boot, React**
 
-### - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ **Cloud based projects**
+### - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ **Frontend Development Projects & Enterprce Level Applications**
 
 ### - 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [medium.com](https://medium.com/@maneegunawardhanadev)
 
-### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **Java and Html5**
+### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **React, Spring, Enterprice Level Applications**
 
 ### - 👩🏻‍💻  ɢᴏᴏɢʟᴇ ᴅᴇᴠ - https://g.dev/mGunawardhana/
 
