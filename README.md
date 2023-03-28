@@ -1,36 +1,10 @@
 <p align="center">
-  <a href="https://skillicons.dev">
-
-  <img src ="https://holopin.me/mgunawardhana">
+  <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
+  <img src ="https://user-images.githubusercontent.com/100486080/228319097-2a5e1a43-8aab-4e9b-9ed2-e29eb47ec92e.png">
     </a>
 </p>
 
 
-<!-- <img src ="https://miro.medium.com/max/875/1*gZ9XF80M8yOasLiFUzL07g.png" width = "1000" hight ="200">
- -->
-<h1 align="center">𝕳𝖎 👋, 𝕴'𝖒 𝖒𝕲𝖚𝖓𝖆𝖜𝖆𝖗𝖉𝖍𝖆𝖓𝖆</h1>
-
-
-<!-- <center>
-   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eq5lhgdw5lkmrsngigso355hli&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31eq5lhgdw5lkmrsngigso355hli&redirect=true)
-
-
-</center> -->
-
-  
-  
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img align="center" alt="BTC" height="60" width="80" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
- <img align="center" alt="BNB" height="60" width="80" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
- <img align="center" alt="ETH" height="60" width="80" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
-  </a>
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=2ED573&width=600&lines=A+passionate+frontend++developer+from+Sri+Lanka)](https://git.io/typing-svg)
-&nbsp;
-&nbsp;
 
 
 <p align="center">
@@ -159,6 +133,18 @@
 
 <!-- ![Fixing any kind of your issues on code (1)](https://user-images.githubusercontent.com/100486080/222509217-e6331c58-4637-4564-8bf9-dee63dafd508.png)
  -->
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+
+  <img src ="https://holopin.me/mgunawardhana">
+    </a>
+</p>
+
+
+
 
 <br>
 
