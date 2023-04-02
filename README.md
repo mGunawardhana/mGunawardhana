@@ -55,7 +55,13 @@
 
 <br><br>
 
-<img  src="https://www.fleetscience.org/sites/default/files/images/ai%20gif.gif"  width="400" height="300"> &nbsp;&nbsp;| &nbsp;&nbsp; <img src = "https://static.wixstatic.com/media/4b1cef_54d9baf7b7da4f10aa2ae732d9b99d7a~mv2.gif" width="400" height="300"/>
+<p align="center">
+ 
+
+<img  src="https://user-images.githubusercontent.com/100486080/229345455-0f9c050a-9373-45e8-bc93-50276ee3dac3.png"  width="600" height="600"> 
+
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&width=800&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
@@ -148,11 +154,6 @@
 
 <br>
 
-
-
-<p align="center">
- 
   ## ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢꜱ ᴏʀ ɪꜱꜱᴜᴇꜱ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴏɴ ᴡʜᴀᴛ'ꜱ ᴀᴘᴘ - 071 - 733 1792
- 
-  <img src ="https://user-images.githubusercontent.com/100486080/229345455-0f9c050a-9373-45e8-bc93-50276ee3dac3.png">
-</p>
+
+
