@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E" width=300" height="30" />
+      <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E" width=200" height="30" />
   </a>
 </p>
 
