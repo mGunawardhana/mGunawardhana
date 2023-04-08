@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E" width="400" height="50" />
+      <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E" width=300" height="50" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue" />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue" width="600" height="50" />
   </a>
 </p>
 
