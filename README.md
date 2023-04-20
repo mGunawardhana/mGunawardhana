@@ -43,88 +43,19 @@
 
 <br><br>
                                                                                                                                               
-<p align="center">
-                 
- ### IDE's
-                 
-</p>
-                 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,androidstudio,eclipse,vscode" />
-  </a>
-</p>
-<br>
+<div align="center">
 
-<p align="center">
-                 
- ### App Development
-                 
-</p>                                                                                                           
-                                                                                                           
-<p align="center">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,java,kotlin,flutter" />
-  </a>
-</p>                                                                          
-<br> 
-                                                                               
-<p align="center">
-                 
- ### Front End
-                 
-</p>
+| NAME | LINK |
+| ------ | ------ |
+| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,eclipse,vscode" /> |
+| App Development |  <img src="https://skillicons.dev/icons?i=dart,java,kotlin,flutter" /> |
+| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts,vue" /> |
+| Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" /> |
+| UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
+| Others |  <img src="https://skillicons.dev/icons?i=arduino,appwrite,firebase,discord,git,github,maven,postman,powershell,svelte,bash" /> |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts,vue" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-                 
- ### Back End
-                 
-</p>
-                                                                                               
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" />
-  </a>
-</p>                                                                                                    
-
-<br>
-                                                                           
- <p align="center">
-                 
- ### UI Tools
-                 
-</p>
-                  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd" />
-  </a>
-</p>                                                                      
-
-<br>
-                                                      
-<p align="center">
-                 
- ### Others
-                 
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,appwrite,firebase,discord,git,github,maven,postman,powershell,svelte,bash" />
-  </a>
-</p>
-                                                      
-                                                      
-                                                      
+</div>
+                                            
                                                       
 <br><br>
 
