@@ -45,7 +45,7 @@
                                                                                                                                               
 <div align="center">
 
-| NAME | LINK |
+| Title | Icon |
 | ------ | ------ |
 | IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,eclipse,vscode" /> |
 | App Development |  <img src="https://skillicons.dev/icons?i=dart,java,kotlin,flutter" /> |
