@@ -42,18 +42,90 @@
 
 
 <br><br>
+                                                                                                                                              
+<p align="center">
+                 
+ ### IDE's
+                 
+</p>
+                 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,androidstudio,eclipse,vscode" />
+  </a>
+</p>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=C4E538&width=600&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
-
+<p align="center">
+                 
+ ### App Development
+                 
+</p>                                                                                                           
+                                                                                                           
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,java,kotlin,flutter" />
+  </a>
+</p>                                                                          
+<br> 
+                                                                               
+<p align="center">
+                 
+ ### Front End
+                 
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=hibernate,html,idea,java,js,bootstrap,jquerymongodb,xd,react,powershell,linux,mysql,nodejs,php" />
-   <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,css,eclipse,figma,gcp,git,github,linkedin,py,spring,svelte,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts,vue" />
   </a>
 </p>
 
+<br>
 
+<p align="center">
+                 
+ ### Front End
+                 
+</p>
+                                                                                               
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" />
+  </a>
+</p>                                                                                                    
+
+<br>
+                                                                           
+ <p align="center">
+                 
+ ### UI Tools
+                 
+</p>
+                  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,xd" />
+  </a>
+</p>                                                                      
+
+<br>
+                                                      
+<p align="center">
+                 
+ ### Others
+                 
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,appwrite,firebase,discord,git,github,maven,postman,powershell,svelte,bash" />
+  </a>
+</p>
+                                                      
+                                                      
+                                                      
+                                                      
 <br><br>
 
 <p align="center">
