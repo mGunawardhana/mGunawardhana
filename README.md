@@ -27,18 +27,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F1C40F&width=850&lines=Helping+people+to+make+the+world+a+better+place+through+quality+software.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
-                                                                                                                                              
-
-
-
-                                                                                                                                              
-<p align="center"> 
-  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" /> 
-  </a>
-</p>
   
-### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **MERN Stack** 
+### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **MERN Stack** &nbsp;&nbsp;&nbsp;    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" /> 
 
 ### - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ **Frontend Development Projects & Enterprice Level Applications**
 
