@@ -34,13 +34,13 @@
 
 ### - 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [medium.com](https://medium.com/@maneegunawardhanadev)
 
-### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **React, Spring, Enterprice Level Applications**
+### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **Node js, React, Spring**
 
 ### - 👩🏻‍💻  ɢᴏᴏɢʟᴇ ᴅᴇᴠ - https://g.dev/mGunawardhana/
 
 ### - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
 
-### - HIRE ME ON - ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=whitehttps://www.upwork.com/freelancers/~01dad061b934d0b744)
+### - #nodejslover
 
 
 <br><br>
