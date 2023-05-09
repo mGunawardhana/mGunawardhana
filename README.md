@@ -38,7 +38,7 @@
   </a>
 </p>
   
-### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Spring, Spring-boot, React,React Native, Expo, Dart, Flutter** 
+### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **MERN Stack** 
 
 ### - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ **Frontend Development Projects & Enterprice Level Applications**
 
