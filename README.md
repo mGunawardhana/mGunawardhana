@@ -55,7 +55,8 @@
 | Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
 | Others |  <img src="https://skillicons.dev/icons?i=arduino,appwrite,firebase,discord,git,github,maven,postman,powershell,svelte,bash" /> |
-
+| favourite |  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,materialui,js,jquery,ts,express,nodejs,mongodb" /> |
+                                                                
 </div>
                                             
                                                       
