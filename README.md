@@ -28,19 +28,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
   
-### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **MERN Stack** &nbsp;&nbsp;&nbsp;    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" /> 
+### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Spring -Boot & React** &nbsp;&nbsp;&nbsp;    <img src="https://skillicons.dev/icons?i=react,spring" /> 
 
-### - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ **Frontend Development Projects & Enterprice Level Applications**
+### - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ **ERP systems & CRM tools**
 
 ### - 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [medium.com](https://medium.com/@maneegunawardhanadev)
 
-### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **Node js, React, Spring**
+### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **,React, Spring**
 
 ### - 👩🏻‍💻  ɢᴏᴏɢʟᴇ ᴅᴇᴠ - https://g.dev/mGunawardhana/
 
 ### - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
 
-### - #nodejslover
+### - 💻 #backenddeveloper
 
 
 <br><br>
@@ -147,8 +147,8 @@
 
 <br>
 
-<!-- ![Fixing any kind of your issues on code (1)](https://user-images.githubusercontent.com/100486080/222509217-e6331c58-4637-4564-8bf9-dee63dafd508.png)
- -->
+![Fixing any kind of your issues on code (1)](https://user-images.githubusercontent.com/100486080/222509217-e6331c58-4637-4564-8bf9-dee63dafd508.png)
+ 
 
 <br>
 
