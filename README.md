@@ -28,13 +28,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
   
-### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Spring -Boot & React** &nbsp;&nbsp;&nbsp;    <img src="https://skillicons.dev/icons?i=react,spring" /> 
+### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Spring -Boot & React** &nbsp;&nbsp;&nbsp;    <img src="https://skillicons.dev/icons?i=spring, react" /> 
 
 ### - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ **ERP systems & CRM tools**
 
 ### - 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [medium.com](https://medium.com/@maneegunawardhanadev)
 
-### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **,React, Spring**
+### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **React, Spring**
 
 ### - 👩🏻‍💻  ɢᴏᴏɢʟᴇ ᴅᴇᴠ - https://g.dev/mGunawardhana/
 
