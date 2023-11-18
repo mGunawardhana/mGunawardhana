@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
-  <img src ="https://user-images.githubusercontent.com/100486080/228319097-2a5e1a43-8aab-4e9b-9ed2-e29eb47ec92e.png">
-    </a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
@@ -28,7 +23,11 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
+  <img src ="https://user-images.githubusercontent.com/100486080/228319097-2a5e1a43-8aab-4e9b-9ed2-e29eb47ec92e.png">
+    </a>
+</p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
