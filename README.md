@@ -6,9 +6,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
-  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/17635109-b7a1-4fba-8138-854f70add1ce" width=200 height=200>
+  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/4303bb50-b78f-4bd6-a6cc-6180d08d60b9" width=400 height=400>
     </a>
 </p>
+
+
 
 
 <br>
