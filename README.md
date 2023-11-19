@@ -1,6 +1,6 @@
-# Maneesha Gunawardhana 🙋‍♂️ 🇱🇰
+# 𝐌𝐚𝐧𝐞𝐞𝐬𝐡𝐚 𝐆𝐮𝐧𝐚𝐰𝐚𝐫𝐝𝐡𝐚𝐧𝐚 🙋‍♂️ 🇱🇰
 
-### Backend Enthusiast | Developer @ Zincat Technologies 🐱
+### ʙᴀᴄᴋᴇɴᴅ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ | ᴅᴇᴠᴇʟᴏᴘᴇʀ @ ᴢɪɴᴄᴀᴛ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 🐱
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
