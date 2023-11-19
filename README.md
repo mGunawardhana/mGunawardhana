@@ -1,6 +1,6 @@
 # Maneesha Gunawardhana
 
-Software Developer | Backend Enthusiast | Code Writer
+## Software Developer | Backend Enthusiast | Code Writer
 
 
 <p align="center">
