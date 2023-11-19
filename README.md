@@ -107,17 +107,11 @@
 <p align="center">
         
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=navy-gear">
-  
-<p>
-  
-<br>
-  
-<p align="center">
-             
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mGunawardhana&layout=compact&theme=github_dark"/>
   
 <p>
   
+
 <br>
 
 
