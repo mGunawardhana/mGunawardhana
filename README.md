@@ -148,11 +148,6 @@
 
 <br>
 
-![Fixing any kind of your issues on code (1)](https://user-images.githubusercontent.com/100486080/222509217-e6331c58-4637-4564-8bf9-dee63dafd508.png)
- 
-
-<br>
-
 <p align="center">
   <a href="https://skillicons.dev">
 
