@@ -1,4 +1,4 @@
-# Maneesha Gunawardhana 🙋‍♂️
+# Maneesha Gunawardhana 🙋‍♂️ 🇱🇰
 
 ### Backend Enthusiast | Developer @ Zincat Technologies 🐱
 
@@ -48,7 +48,7 @@
 
 <br><br>
 
-## **Badges**
+## **Badges** 🥇
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Expert-rede?style=for-the-badge&logo=java" alt="Java Expert" /> &nbsp;&nbsp;
