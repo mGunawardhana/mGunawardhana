@@ -1,6 +1,6 @@
 # Maneesha Gunawardhana
 
-### Software Developer | Backend Enthusiast | Code Writer | Developver @ Zincat Technologies
+### Software Developer | Backend Enthusiast | Code Writer | Developer @ Zincat Technologies
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
