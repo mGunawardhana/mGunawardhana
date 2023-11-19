@@ -48,10 +48,10 @@
 ## **Badges**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge&logo=java" alt="Java Expert" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spring-Expert-green?style=for-the-badge&logo=spring" alt="Spring Expert" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-Expert-rede?style=for-the-badge&logo=java" alt="Java Expert" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Spring-Expert-red?style=for-the-badge&logo=spring" alt="Spring Expert" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ReactJS-Advanced-blue?style=for-the-badge&logo=react" alt="ReactJS Advanced" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-Intermediate-blue?style=for-the-badge&logo=mysql" alt="MySQL Intermediate" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-grees?style=for-the-badge&logo=mysql" alt="MySQL Intermediate" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-Intermediate-green?style=for-the-badge&logo=mongodb" alt="MongoDB Intermediate" /> &nbsp;&nbsp;
 </p>
 
