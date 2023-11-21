@@ -2,6 +2,12 @@
 
 ### ʙᴀᴄᴋᴇɴᴅ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ | ᴅᴇᴠᴇʟᴏᴘᴇʀ @ ᴢɪɴᴄᴀᴛ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 🐱
 
+## Support
+
+<p><a href="https://www.buymeacoffee.com/mGunawardhana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mGunawardhana" /></a></p><br><br>
+<p/>
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
   <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/4303bb50-b78f-4bd6-a6cc-6180d08d60b9" width=200 height=200>
@@ -155,11 +161,7 @@
 
 
 
-## Support
 
-<p><a href="https://www.buymeacoffee.com/mGunawardhana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mGunawardhana" /></a></p><br><br>
-<p/>
-<br>
 
 ![Untitled design](https://user-images.githubusercontent.com/100486080/234938885-0e944115-03b8-46b5-8f95-b40249e308d0.png)
 
