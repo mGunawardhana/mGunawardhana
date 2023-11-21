@@ -1,10 +1,6 @@
 # Maneesha Gunawardhana (mGunawardhana) 🙋‍♂️ 🇱🇰
 
-### ʙᴀᴄᴋᴇɴᴅ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ | ᴅᴇᴠᴇʟᴏᴘᴇʀ @ ᴢɪɴᴄᴀᴛ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 🐱
-
-## Support
-
-<p><a href="https://www.buymeacoffee.com/mGunawardhana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="mGunawardhana" /></a></p><br><br><p/>
+### ʙᴀᴄᴋᴇɴᴅ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ | ᴅᴇᴠᴇʟᴏᴘᴇʀ @ ᴢɪɴᴄᴀᴛ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 🐱  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
@@ -50,6 +46,8 @@
 
 ### - 💻 #backenddeveloper
 
+<p><a href="https://www.buymeacoffee.com/mGunawardhana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="mGunawardhana" /></a></p><br><br><p/>
+  
 <br><br>
 
 ## **Badges** 🥇
