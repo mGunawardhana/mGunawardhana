@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue" width="600" height="30" />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-blue" width="600" height="30" />
   </a>
 </p>
 
