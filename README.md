@@ -4,9 +4,7 @@
 
 ## Support
 
-<p><a href="https://www.buymeacoffee.com/mGunawardhana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mGunawardhana" /></a></p><br><br>
-<p/>
-<br>
+<p><a href="https://www.buymeacoffee.com/mGunawardhana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="mGunawardhana" /></a></p><br><br><p/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
