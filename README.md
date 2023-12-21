@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
-  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/e14740b5-4b8c-4b54-b04d-cd12664d36d9" width=100 height=100>
+  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/e14740b5-4b8c-4b54-b04d-cd12664d36d9" width=80 height=80>
     </a>
 </p>
 
