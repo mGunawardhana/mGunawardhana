@@ -1,4 +1,4 @@
-# Maneesha Gunawardhana (mGunawardhana) 🙋‍♂️ 🇱🇰
+# Maneesha Gunawardhana (mGunawardhana) 🙋‍♂️ 🇱🇰 
 
 ### ʙᴀᴄᴋᴇɴᴅ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ | ᴅᴇᴠᴇʟᴏᴘᴇʀ @ ᴢɪɴᴄᴀᴛ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 🐱  
 
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
-  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/49127eab-5c8b-44f4-854d-c0312d0ba07e" width=80 height=80>
+  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/49127eab-5c8b-44f4-854d-c0312d0ba07e" width=60 height=60>
     </a>
 </p>
 
