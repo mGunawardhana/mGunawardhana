@@ -82,13 +82,12 @@
 | Title | Icon |
 | ------ | ------ |
 | IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |
-| App Development |  <img src="https://skillicons.dev/icons?i=flutter,kotlin" /> |
+| App Development |  <img src="https://skillicons.dev/icons?i=flutter" /> |
 | Front End | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,angular" /> |
-| Back End |  <img src="https://skillicons.dev/icons?i=java,spring,nodejs," /> |
+| Back End |  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,django,fastapi" /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
-| Others |  <img src="https://skillicons.dev/icons?i=" /> |
 | database |  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
-                                                                
+| Others |  <img src="https://skillicons.dev/icons?i=aws,bash,docker,firebase,gcp,git,github,gitlab,linux,maven,postman" /> |                                                                
 </div>
                                             
                                                       
