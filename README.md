@@ -82,12 +82,12 @@
 | Title | Icon |
 | ------ | ------ |
 | IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |
-| App Development |  <img src="https://skillicons.dev/icons?i=dart,java" /> |
-| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts" /> |
-| Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" /> |
+| App Development |  <img src="https://skillicons.dev/icons?i=flutter,kotlin" /> |
+| Front End | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,angular" /> |
+| Back End |  <img src="https://skillicons.dev/icons?i=java,spring,nodejs," /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
-| Others |  <img src="https://skillicons.dev/icons?i=arduino,appwrite,firebase,discord,git,github,maven,postman,powershell,bash" /> |
-| favourite |  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,materialui,js,jquery,ts,express,nodejs,mongodb" /> |
+| Others |  <img src="https://skillicons.dev/icons?i=" /> |
+| database |  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
                                                                 
 </div>
                                             
