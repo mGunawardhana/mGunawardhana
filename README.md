@@ -93,7 +93,7 @@
 | Back End |  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,django,fastapi" /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
 | database |  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
-| Others |  <img src="https://skillicons.dev/icons?i=aws,bash,docker,firebase,gcp,git,github,gitlab,linux,maven,postman" /> |                                                                
+| Others |  <img src="https://skillicons.dev/icons?i=aws,bash,docker,firebase,gcp,git,github,gitlab,linux,maven,postman,netlify" /> |                                                                
 </div>
                                             
                                                       
