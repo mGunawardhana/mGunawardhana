@@ -38,6 +38,11 @@
     </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
+  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/1cc7ce99-ab34-4edd-bfc9-a8c6c3fe518d" width=300 height=300>
+    </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2ed573&width=850&lines=Helping+people+to+make+the+world+a+better+place+through+quality+software.)](https://git.io/typing-svg)
