@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
-  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/1cc7ce99-ab34-4edd-bfc9-a8c6c3fe518d" width=300 height=300>
+  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/1cc7ce99-ab34-4edd-bfc9-a8c6c3fe518d" >
     </a>
 </p>
 
