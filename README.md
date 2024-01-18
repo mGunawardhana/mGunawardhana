@@ -93,10 +93,10 @@
 | Title | Icon |
 | ------ | ------ |
 | IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |
-| Pr. Lang.. |  <img src="https://skillicons.dev/icons?i=dart," /> |
+| Pr. Lang.. |  <img src="https://skillicons.dev/icons?i=py,java,dart," /> |
 | App Development |  <img src="https://skillicons.dev/icons?i=flutter" /> |
 | Front End | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,angular" /> |
-| Back End |  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,django,fastapi" /> |
+| Back End |  <img src="https://skillicons.dev/icons?i=spring,nodejs,django,fastapi" /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
 | database |  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
 | web-service |  <img src="https://skillicons.dev/icons?i=aws,gcp,netlify,azure" /> |
