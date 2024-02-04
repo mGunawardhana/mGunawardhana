@@ -36,6 +36,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
 ```python
+
 def get_who_is_mgunawardhana():
     return "Hi, it's me, Maneesha Gunawardhana."
 
