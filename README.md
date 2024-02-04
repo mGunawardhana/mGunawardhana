@@ -13,10 +13,12 @@
 import logging
 from typing import List
 
-logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s', level=logging.INFO)
+logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s',
+ level=logging.INFO)
 
 class Person:
-    def __init__(self, name: str, location: str, job: str, education: str, interests: List[str], hobbies: List[str], favourite_quote: str):
+    def __init__(self, name: str, location: str, job: str, education: str, interests: List[str],
+ hobbies: List[str], favourite_quote: str):
         self.name = name
         self.location = location
         self.job = job
