@@ -35,20 +35,44 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2ed573&width=850&lines=Helping+people+to+make+the+world+a+better+place+through+quality+software.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
-  
-### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Spring -Boot & React** &nbsp;&nbsp;&nbsp;    <img src="https://skillicons.dev/icons?i=spring,react" /> 
+```python
+def get_who_is_mgunawardhana():
+    return "Hi, it's me, Maneesha Gunawardhana."
 
-### - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ **ERP systems & CRM tools**
+def get_current_education_from_mgunawardhana():
+    return "I'm an undergraduate pursuing a BSc (Hons) in Computer Science."
 
-### - 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [medium.com](https://medium.com/@maneegunawardhanadev)
+def get_current_employment_from_mgunawardhana():
+    return "I'm a Trainee Software Engineer at Zincat Technologies."
 
-### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **React, Spring**
+def get_current_location_from_mgunawardhana():
+    return "I'm from Sri Lanka and currently living in Galle."
 
-### - 👩🏻‍💻  ɢᴏᴏɢʟᴇ ᴅᴇᴠ - https://g.dev/mGunawardhana/
+def favourite_quote_from_mgunawardhana():
+    return "One of my favourite quotes is: 'The only way to do great work is to love what you do.'"
 
-### - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **mrgunawardhana27368@gmail.com** **,** **gunawardhanam734@gmail.com**
+def get_hobbies_from_mgunawardhana():
+    return "In my leisure time, I enjoy watching movies and listening to music."
 
-### - 💻 #backenddeveloper
+def get_interests_from_mgunawardhana():
+    return "I'm interested in Machine Learning and Backend Development."
+
+def about_mgunawardhana():
+    print('Who is mgunawardhana? '+get_who_is_mgunawardhana())
+    print('What is your current educational status? '+get_current_education_from_mgunawardhana())
+    print('What is your current employment status? '+get_current_employment_from_mgunawardhana())
+    print('Where are you from? '+get_current_location_from_mgunawardhana())
+    print('Do you have a favourite quote? '+favourite_quote_from_mgunawardhana())
+    print('What are your hobbies? '+get_hobbies_from_mgunawardhana())
+    print('What topics are you interested in? '+get_interests_from_mgunawardhana())
+
+def main():
+    about_mgunawardhana()
+
+if __name__ == "__main__":
+    main()
+
+```
 
 <br>
 
