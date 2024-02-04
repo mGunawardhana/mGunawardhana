@@ -4,16 +4,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
-  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/d0f47a20-ab00-4bee-8c00-b19d48e28470" width=80 height=80>
+  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/77690d70-6c6e-4aac-912c-df9731ef6901">
     </a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
-  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/49127eab-5c8b-44f4-854d-c0312d0ba07e" width=60 height=60>
-    </a>
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
   <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/4303bb50-b78f-4bd6-a6cc-6180d08d60b9" width=200 height=200>
