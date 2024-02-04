@@ -10,39 +10,68 @@
 
 ```python
 
+import logging
+from typing import List
 
-def get_who_is_mgunawardhana():
-    return "Hi, it's me, Maneesha Gunawardhana."
+# Configure logging
+logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-def get_current_education_from_mgunawardhana():
-    return "I'm an undergraduate pursuing a BSc (Hons) in Computer Science."
+class Person:
+    def __init__(self, name: str, location: str, job: str, education: str, interests: List[str], hobbies: List[str], favourite_quote: str):
+        self.name = name
+        self.location = location
+        self.job = job
+        self.education = education
+        self.interests = interests
+        self.hobbies = hobbies
+        self.favourite_quote = favourite_quote
 
-def get_current_employment_from_mgunawardhana():
-    return "I'm a Trainee Software Engineer at Zincat Technologies."
+    def introduce_yourself(self) -> str:
+        logging.info('Executing: introduce_yourself')
+        return f"Hi, it's me, {self.name}."
 
-def get_current_location_from_mgunawardhana():
-    return "I'm from Sri Lanka and currently living in Galle."
+    def get_education(self) -> str:
+        logging.info('Executing: get_education')
+        return f"I'm an undergraduate pursuing a {self.education}."
 
-def favourite_quote_from_mgunawardhana():
-    return "One of my favourite quotes is: 'The only way to do great work is to love what you do.'"
+    def get_job(self) -> str:
+        logging.info('Executing: get_job')
+        return f"I'm a {self.job}."
 
-def get_hobbies_from_mgunawardhana():
-    return "In my leisure time, I enjoy watching movies and listening to music."
+    def get_location(self) -> str:
+        logging.info('Executing: get_location')
+        return f"I'm from {self.location}."
 
-def get_interests_from_mgunawardhana():
-    return "I'm interested in Machine Learning and Backend Development."
+    def get_favourite_quote(self) -> str:
+        logging.info('Executing: get_favourite_quote')
+        return f"One of my favourite quotes is: '{self.favourite_quote}'."
 
-def about_mgunawardhana():
-    print('Who is mgunawardhana? '+get_who_is_mgunawardhana())
-    print('What is your current educational status? '+get_current_education_from_mgunawardhana())
-    print('What is your current employment status? '+get_current_employment_from_mgunawardhana())
-    print('Where are you from? '+get_current_location_from_mgunawardhana())
-    print('Do you have a favourite quote? '+favourite_quote_from_mgunawardhana())
-    print('What are your hobbies? '+get_hobbies_from_mgunawardhana())
-    print('What topics are you interested in? '+get_interests_from_mgunawardhana())
+    def get_hobbies(self) -> str:
+        logging.info('Executing: get_hobbies')
+        return f"In my leisure time, I enjoy {' and '.join(self.hobbies)}."
+
+    def get_interests(self) -> str:
+        logging.info('Executing: get_interests')
+        return f"I'm interested in {' and '.join(self.interests)}."
 
 def main():
-    about_mgunawardhana()
+    logging.info('Executing: main')
+    mgunawardhana = Person(
+        name="Maneesha Gunawardhana",
+        location="Sri Lanka, currently living in Galle",
+        job="Trainee Software Engineer at Zincat Technologies",
+        education="BSc (Hons) in Computer Science",
+        interests=["Machine Learning", "Backend Development"],
+        hobbies=["Watching Movies", "Listening to Music"],
+        favourite_quote="The only way to do great work is to love what you do"
+    )
+    print('Who is mgunawardhana? '+mgunawardhana.introduce_yourself())
+    print('What is your current educational status? '+mgunawardhana.get_education())
+    print('What is your current employment status? '+mgunawardhana.get_job())
+    print('Where are you from? '+mgunawardhana.get_location())
+    print('Do you have a favourite quote? '+mgunawardhana.get_favourite_quote())
+    print('What are your hobbies? '+mgunawardhana.get_hobbies())
+    print('What topics are you interested in? '+mgunawardhana.get_interests())
 
 if __name__ == "__main__":
     main()
