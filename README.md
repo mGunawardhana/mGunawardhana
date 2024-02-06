@@ -3,6 +3,12 @@
 ### ʙᴀᴄᴋᴇɴᴅ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ | ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ @ ᴢɪɴᴄᴀᴛ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 🐱  
 
 <p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E" width=200" height="30" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
   <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/77690d70-6c6e-4aac-912c-df9731ef6901">
     </a>
@@ -84,12 +90,6 @@ if __name__ == "__main__":
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
   <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/4303bb50-b78f-4bd6-a6cc-6180d08d60b9" width=200 height=200>
     </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E" width=200" height="30" />
-  </a>
 </p>
 
 <p align="center">
