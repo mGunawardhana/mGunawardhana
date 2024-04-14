@@ -3,6 +3,9 @@
 ### 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 @ 𝐃𝐢𝐚𝐥𝐨𝐠 𝐀𝐱𝐢𝐚𝐭𝐚 𝐏𝐋𝐂 & 𝐙𝐢𝐧𝐜𝐚𝐭 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 | 𝐑𝐞𝐚𝐜𝐭 | 𝐒𝐩𝐫𝐢𝐧𝐠-𝐛𝐨𝐨𝐭 | 𝐎𝐫𝐚𝐜𝐥𝐞 𝐃𝐁𝐀 🐱  
 
 <p align="center">
+  
+  ![illo-cpu-new-3e7c7d337f91](https://github.com/mGunawardhana/mGunawardhana/assets/100486080/9796a139-f7e4-4d57-8102-ca9080592854)
+
   <a href="https://skillicons.dev">
       <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E" width=200" height="30" />
   </a>
