@@ -4,9 +4,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/9796a139-f7e4-4d57-8102-ca9080592854" width="500" height="500" />
-<!--       <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E" width=200" height="30" />
-  </a> -->
+      <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E" width=200" height="30" />
+  </a>
 </p>
 
 <p align="center">
