@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://img.shields.io/badge/Developer_at-Dialog_Axiata_PLC-red" width=200" height="30" />
+      <img src="https://img.shields.io/badge/Developer_at-Dialog_Axiata_PLC-red" width="250" height="30" />
   </a>
 </p>
 
