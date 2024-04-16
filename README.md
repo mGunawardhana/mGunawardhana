@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://img.shields.io/badge/Developer_at-Dialog_Axiata_PLC-red" width=200" height="30" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
   <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/77690d70-6c6e-4aac-912c-df9731ef6901">
     <img src ="https://github.com/mGunawardhana/mobile-app-cw/assets/100486080/f5be7354-96ed-4d9c-942e-5410274862e0">
