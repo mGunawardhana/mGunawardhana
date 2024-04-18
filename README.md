@@ -21,77 +21,7 @@
     </a>
 </p>
 
-```python
-
-import logging
-from typing import List
-
-logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s',
- level=logging.INFO)
-
-class Person:
-    def __init__(self, name: str, location: str, job: str, education: str, interests: List[str],
- hobbies: List[str], favourite_quote: str):
-        self.name = name
-        self.location = location
-        self.job = job
-        self.education = education
-        self.interests = interests
-        self.hobbies = hobbies
-        self.favourite_quote = favourite_quote
-
-    def introduce_yourself(self) -> str:
-        logging.info('Executing: introduce_yourself')
-        return f"Hi, it's me, {self.name}."
-
-    def get_education(self) -> str:
-        logging.info('Executing: get_education')
-        return f"I'm an undergraduate pursuing a {self.education}."
-
-    def get_job(self) -> str:
-        logging.info('Executing: get_job')
-        return f"I'm a {self.job}."
-
-    def get_location(self) -> str:
-        logging.info('Executing: get_location')
-        return f"I'm from {self.location}."
-
-    def get_favourite_quote(self) -> str:
-        logging.info('Executing: get_favourite_quote')
-        return f"One of my favourite quotes is: '{self.favourite_quote}'."
-
-    def get_hobbies(self) -> str:
-        logging.info('Executing: get_hobbies')
-        return f"In my leisure time, I enjoy {' and '.join(self.hobbies)}."
-
-    def get_interests(self) -> str:
-        logging.info('Executing: get_interests')
-        return f"I'm interested in {' and '.join(self.interests)}."
-
-def main():
-    logging.info('Executing: main')
-    mgunawardhana = Person(
-        name="Maneesha Gunawardhana",
-        location="Sri Lanka, currently living in Galle",
-        job="Trainee Software Engineer at Zincat Technologies",
-        education="BSc (Hons) in Computer Science",
-        interests=["Machine Learning", "Backend Development"],
-        hobbies=["Watching Movies", "Listening to Music"],
-        favourite_quote="The only way to do great work is to love what you do"
-    )
-    print('Who is mgunawardhana? '+mgunawardhana.introduce_yourself())
-    print('What is your current educational status? '+mgunawardhana.get_education())
-    print('What is your current employment status? '+mgunawardhana.get_job())
-    print('Where are you from? '+mgunawardhana.get_location())
-    print('Do you have a favourite quote? '+mgunawardhana.get_favourite_quote())
-    print('What are your hobbies? '+mgunawardhana.get_hobbies())
-    print('What topics are you interested in? '+mgunawardhana.get_interests())
-
-if __name__ == "__main__":
-    main()
-
-```
-
+#
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
