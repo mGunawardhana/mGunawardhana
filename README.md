@@ -160,12 +160,6 @@
 
 </p>
 
-
-
-
-
-![Untitled design](https://user-images.githubusercontent.com/100486080/234938885-0e944115-03b8-46b5-8f95-b40249e308d0.png)
-
 <br>
 
 <p align="center">
