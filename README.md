@@ -89,10 +89,7 @@
 <br><br>
 
 <p align="center">
- 
 <img  src="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/481c52d3-2759-44ee-a386-db99c0bef42d"  width="600" height="600">
-<img  src="https://user-images.githubusercontent.com/100486080/229345455-0f9c050a-9373-45e8-bc93-50276ee3dac3.png"  width="600" height="600">
-
 </p>
 
 
