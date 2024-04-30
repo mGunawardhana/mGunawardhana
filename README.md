@@ -29,16 +29,8 @@
 
 
 
-
-<div>
-  <div style="float: left; width: 50%">
   <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/4303bb50-b78f-4bd6-a6cc-6180d08d60b9" width=200 height=200>
-  </div>
-  <div style="float: right; width: 50%">
   <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/1cc7ce99-ab34-4edd-bfc9-a8c6c3fe518d" width="450" >
-  </div>
-</div>
-
 
 <p align="center">
   <a href="https://skillicons.dev">
