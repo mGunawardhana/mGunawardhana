@@ -62,18 +62,24 @@
 <br><br>
                                                                                                                                               
 <div align="center">
+<div align="center">
 
 | Title | Icon |
 | ------ | ------ |
-| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |
-| Pr. Lang.. |  <img src="https://skillicons.dev/icons?i=py,java,dart," /> |
+| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,arduino,pycharm" /> |
+| Pr. Lang.. |  <img src="https://skillicons.dev/icons?i=py,java,dart,cpp,webstorm" /> |
 | App Development |  <img src="https://skillicons.dev/icons?i=flutter" /> |
-| Front End | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,angular" /> |
+| Front End | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,angular,vite" /> |
 | Back End |  <img src="https://skillicons.dev/icons?i=spring,nodejs,django,fastapi" /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
 | database |  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
 | web-service |  <img src="https://skillicons.dev/icons?i=aws,gcp,netlify,azure" /> |
-| Others |  <img src="https://skillicons.dev/icons?i=bash,gradle,docker,firebase,git,github,gitlab,linux,maven,postman,discord,regex" /> |                                                                
+| Build-tools |  <img src="https://skillicons.dev/icons?i=gradle,maven," /> |
+| Version C. |  <img src="https://skillicons.dev/icons?i=git,github,gitlab" /> |
+| OS |  <img src="https://skillicons.dev/icons?i=linux,bash,kali" /> |
+| Cloud C. |  <img src="https://skillicons.dev/icons?i=aws,azure" /> |
+| Devops |  <img src="https://skillicons.dev/icons?i=bitbucket,docker,gcp,githubactions,nginx,jenkins" /> |  
+</div>                                                             
 </div>
                                             
                                                       
