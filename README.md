@@ -28,11 +28,17 @@
 </p>
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
+
+
+<div>
+  <div style="float: left; width: 50%">
   <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/4303bb50-b78f-4bd6-a6cc-6180d08d60b9" width=200 height=200>
-    </a>
-</p>
+  </div>
+  <div style="float: right; width: 50%">
+  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/1cc7ce99-ab34-4edd-bfc9-a8c6c3fe518d" width="450" >
+  </div>
+</div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,11 +46,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
-  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/1cc7ce99-ab34-4edd-bfc9-a8c6c3fe518d" width="450" >
-    </a>
-</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2ed573&width=850&lines=Helping+people+to+make+the+world+a+better+place+through+quality+software.)](https://git.io/typing-svg)
