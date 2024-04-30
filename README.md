@@ -27,11 +27,6 @@
   </a>
 </p>
 
-
-
-  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/4303bb50-b78f-4bd6-a6cc-6180d08d60b9" width=200 height=200>
-  <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/1cc7ce99-ab34-4edd-bfc9-a8c6c3fe518d" width="450" >
-
 <p align="center">
   <a href="https://skillicons.dev">
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.9%20million%20lines%20of%20code-blue" width="600" height="30" />
@@ -62,10 +57,6 @@
   <img src="https://img.shields.io/badge/MySQL-Intermediate-green?style=for-the-badge&logo=mysql" alt="MySQL Intermediate" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-Intermediate-green?style=for-the-badge&logo=mongodb" alt="MongoDB Intermediate" /> &nbsp;&nbsp;
 </p>
-
-
-
-
 
 
 <br><br>
