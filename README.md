@@ -66,8 +66,8 @@
 
 | Title | Icon |
 | ------ | ------ |
-| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,arduino,pycharm" /> |
-| Pr. Lang.. |  <img src="https://skillicons.dev/icons?i=py,java,dart,cpp,webstorm" /> |
+| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,arduino,pycharm,webstorm" /> |
+| Pr. Lang.. |  <img src="https://skillicons.dev/icons?i=py,java,dart,cpp" /> |
 | App Development |  <img src="https://skillicons.dev/icons?i=flutter" /> |
 | Front End | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,angular,vite" /> |
 | Back End |  <img src="https://skillicons.dev/icons?i=spring,nodejs,django,fastapi" /> |
