@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://user-badge.committers.top/sri_lanka/mGunawardhana.svg" width="300" height="30" />
+      <img src="https://user-badge.committers.top/sri_lanka/mGunawardhana.svg" width="270" height="30" />
   </a>
 </p>
 
