@@ -23,20 +23,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
-    <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/3ad2f47f-1e27-43ae-a87e-63727c8783cc">
+    <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/471bb46d-96c7-4edb-9adb-d40dfb9162d9">
     </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
-    <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/087beee0-384f-4f16-bae0-853c14f15035">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.9%20million%20lines%20of%20code-blue" width="600" height="30" />
-  </a>
 </p>
 
 
