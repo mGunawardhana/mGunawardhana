@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
-    <img src ="https://github.com/mGunawardhana/mGunawardhana/assets/100486080/471bb46d-96c7-4edb-9adb-d40dfb9162d9">
+    <img src ="">
     </a>
 </p>
 
