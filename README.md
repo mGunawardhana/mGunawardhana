@@ -21,13 +21,15 @@
 </p>
 
 
-![Screenshot 2024-09-29 221309](https://github.com/user-attachments/assets/c17924a5-310b-45f2-8920-5cb0a25a5d1c)
+![Screenshot 2024-10-04 075822](https://github.com/user-attachments/assets/87f02beb-8b8f-4b24-aeec-901a77a7eda4)
 
-![Screenshot 2024-09-29 221327](https://github.com/user-attachments/assets/b69c308e-67af-4d39-b057-7e97a1667946)
+![Screenshot 2024-10-04 075835](https://github.com/user-attachments/assets/8dea9ff7-7279-4809-aafe-27d5997f289e)
 
-![Screenshot 2024-09-29 221340](https://github.com/user-attachments/assets/8b615532-f206-40f5-800d-d74c600489df)
+![Screenshot 2024-10-04 075857](https://github.com/user-attachments/assets/e7a42f9b-2ae0-46d9-8a8b-3ba7b2a03c03)
 
-![Screenshot 2024-09-29 221348](https://github.com/user-attachments/assets/943e1d1d-f915-4fba-a483-07cf2ecb019d)
+![Screenshot 2024-10-04 075909](https://github.com/user-attachments/assets/7955b834-1e75-4993-bb1c-7192df3e7580)
+
+![Screenshot 2024-10-04 075928](https://github.com/user-attachments/assets/8b41a89f-dfa8-45bd-b332-6e2cafa2a73f)
 
 <img width="1430" alt="Blue Lagoon@2x" src="https://github.com/user-attachments/assets/fd87e29b-afcc-4574-92dc-e355a776d60a">
 
