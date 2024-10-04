@@ -20,16 +20,15 @@
   </a>
 </p>
 
+![Screenshot 2024-10-04 080152](https://github.com/user-attachments/assets/061a40b4-89a7-493f-adf9-fa90827ee447)
 
-![Screenshot 2024-10-04 075822](https://github.com/user-attachments/assets/87f02beb-8b8f-4b24-aeec-901a77a7eda4)
+![Screenshot 2024-10-04 080204](https://github.com/user-attachments/assets/9d068c22-555c-4b1c-ba0d-eed94be50446)
 
-![Screenshot 2024-10-04 075835](https://github.com/user-attachments/assets/8dea9ff7-7279-4809-aafe-27d5997f289e)
+![Screenshot 2024-10-04 080224](https://github.com/user-attachments/assets/71e43342-bd5a-484e-8330-891908e605f2)
 
-![Screenshot 2024-10-04 075857](https://github.com/user-attachments/assets/e7a42f9b-2ae0-46d9-8a8b-3ba7b2a03c03)
+![Screenshot 2024-10-04 080236](https://github.com/user-attachments/assets/805d8dfc-2c1c-4783-b713-eb30b7c12521)
 
-![Screenshot 2024-10-04 075909](https://github.com/user-attachments/assets/7955b834-1e75-4993-bb1c-7192df3e7580)
-
-![Screenshot 2024-10-04 075928](https://github.com/user-attachments/assets/8b41a89f-dfa8-45bd-b332-6e2cafa2a73f)
+![Screenshot 2024-10-04 080257](https://github.com/user-attachments/assets/af9aa0c0-7618-4cfb-8c4a-0f8d0a2513df)
 
 <img width="1430" alt="Blue Lagoon@2x" src="https://github.com/user-attachments/assets/fd87e29b-afcc-4574-92dc-e355a776d60a">
 
