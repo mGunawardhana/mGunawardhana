@@ -20,16 +20,6 @@
   </a>
 </p>
 
-![Screenshot 2024-10-04 080152](https://github.com/user-attachments/assets/061a40b4-89a7-493f-adf9-fa90827ee447)
-
-![Screenshot 2024-10-04 080204](https://github.com/user-attachments/assets/9d068c22-555c-4b1c-ba0d-eed94be50446)
-
-![Screenshot 2024-10-04 080224](https://github.com/user-attachments/assets/71e43342-bd5a-484e-8330-891908e605f2)
-
-![Screenshot 2024-10-04 080236](https://github.com/user-attachments/assets/805d8dfc-2c1c-4783-b713-eb30b7c12521)
-
-![Screenshot 2024-10-04 080257](https://github.com/user-attachments/assets/af9aa0c0-7618-4cfb-8c4a-0f8d0a2513df)
-
 <img width="1430" alt="Blue Lagoon@2x" src="https://github.com/user-attachments/assets/fd87e29b-afcc-4574-92dc-e355a776d60a">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
