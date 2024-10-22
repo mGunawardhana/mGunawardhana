@@ -1,7 +1,5 @@
 # Maneesha Gunawardhana 💀
 
-### 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 @ 𝐃𝐢𝐚𝐥𝐨𝐠 𝐀𝐱𝐢𝐚𝐭𝐚 𝐏𝐋𝐂 & 𝐙𝐢𝐧𝐜𝐚𝐭 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 | 𝐑𝐞𝐚𝐜𝐭 | 𝐒𝐩𝐫𝐢𝐧𝐠-𝐛𝐨𝐨𝐭 | 𝐎𝐫𝐚𝐜𝐥𝐞 𝐃𝐁𝐀 🐱  
-
 <p align="center">
   <a href="https://skillicons.dev">
       <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E&abbreviated=true" width=200" height="30" />
