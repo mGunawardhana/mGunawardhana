@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<img width="1430" alt="Blue Lagoon@2x" src="https://github.com/user-attachments/assets/fd87e29b-afcc-4574-92dc-e355a776d60a">
+<img width="1430" alt="Blue Lagoon@2x" src="https://github.com/user-attachments/assets/83c4cc51-80d0-4c8f-97a2-583b2ce4e4d8">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2ed573&width=850&lines=Helping+people+to+make+the+world+a+better+place+through+quality+software.)](https://git.io/typing-svg)
