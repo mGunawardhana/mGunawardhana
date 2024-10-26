@@ -1,5 +1,3 @@
-# Maneesha Gunawardhana 💀
-
 ## We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us.
 
 <p align="center">
@@ -19,8 +17,6 @@
       <img src="https://img.shields.io/badge/Associate_Software_Engineer_@-Dialog_Axiata_PLC-blue" width="400" height="30" />
   </a>
 </p>
-
-<img width="1430" alt="Blue Lagoon@2x" src="https://github.com/user-attachments/assets/83c4cc51-80d0-4c8f-97a2-583b2ce4e4d8">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2ed573&width=850&lines=Helping+people+to+make+the+world+a+better+place+through+quality+software.)](https://git.io/typing-svg)
