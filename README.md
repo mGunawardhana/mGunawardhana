@@ -3,4 +3,4 @@
 <br>
 <br>
 
-![pikaso_texttoimage_anonymous-hacking-group--1024x512](https://github.com/user-attachments/assets/19c37ccd-8de7-4170-abdc-7faf4991b374)
+![anonimous-hacker](https://github.com/user-attachments/assets/f930f5e6-b4c9-48ac-abba-c46865a64e9c)
