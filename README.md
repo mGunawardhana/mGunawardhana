@@ -1,8 +1,27 @@
-<h2 align="center"> Hi There,
-<br>
-<br>
-  
-![MANEESHA GUNAWARDHANA](https://github.com/user-attachments/assets/d3313d51-c825-4a45-af31-15c725674649)
+# 👋 Hi, I'm Maneesha Gunawardhana!  
 
-#### I'm Maneesha, a 24-year-old Associate Software Engineer with a strong foundation in software development and programming, particularly in React, Java, Oracle DB, and PostgreSQL. Known for excelling under pressure, I have a proven track record of managing multiple tasks and delivering high-quality results. My expertise spans algorithms, backend development, and IT infrastructure, and I bring a creative, innovative approach to problem-solving. Eager to learn new technologies, I adapt seamlessly to new challenges and am well-equipped to provide effective technical support and troubleshooting.
+🚀 **Associate Software Engineer | Tech Enthusiast | Problem Solver**  
+I love crafting efficient, scalable solutions and exploring new technologies to create impactful software.  
 
+---
+
+## 🌟 About Me  
+- 💻 Passionate about coding and learning new technologies.  
+- 🌱 Currently exploring advanced **microservices architecture** and **cloud-based solutions**.  
+- 🛠 Skilled in **Java**, **Spring Boot**, **React**, **Postgres SQL**, **Docker**, **Azure**, and more.  
+
+---
+
+## 📈 GitHub Stats  
+![Maneesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonymous-leviathan&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+- 💌 [maneesha.gunawardhana.contact@gmail.com](mailto:maneesha.gunawardhana.contact@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/maneesha-gunawardhana)  
+- 🌐 [Portfolio](https://github.com/anonymous-leviathan)  
+
+---
+
+✨ _"Code is like humor. When you have to explain it, it’s bad."_  
