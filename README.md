@@ -14,7 +14,6 @@ I'm Maneesha, a 24-year-old enthusiastic Associate Software Engineer with a soli
 - ✅ **Cutting-Edge Skills**: Proficient in modern frameworks, database management (PostgreSQL, Oracle DB), and automation tools like Jenkins and GitHub Actions.
 - ✅ **Adaptability**: Thriving in dynamic, high-pressure environments, I quickly master new tools and technologies to meet evolving project needs.
 - ✅ **Team Player with Leadership Qualities**: Combining strong communication and collaboration skills with a proactive approach to leadership and accountability.
-- 
 ---
 
 ## 📂 My Projects
