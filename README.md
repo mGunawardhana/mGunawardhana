@@ -1,21 +1,48 @@
 # 👋 Hi, I'm Maneesha Gunawardhana!  
 
 🚀 **Associate Software Engineer | Tech Enthusiast | Problem Solver**  
-I love crafting efficient, scalable solutions and exploring new technologies to create impactful software.  
 
----
+```java
+public class ManeeshaGunawardhana {
 
-## 🌟 About Me  
-- 💻 Passionate about coding and learning new technologies.  
-- 🌱 Currently exploring advanced **microservices architecture** and **cloud-based solutions**.  
-- 🛠 Skilled in **Java**, **Spring Boot**, **React**, **Postgres SQL**, **Docker**, **Azure**, and more.  
+    private String name = "Maneesha Gunawardhana";
+    private String role = "Associate Software Engineer";
+    private String email = "maneesha.gunawardhana.contact@gmail.com";
+    
+    private String[] skills = {
+        "Java", "Spring Boot", "React", "Postgres SQL", 
+        "Docker", "Azure", "Oracle DB", "Microservices Architecture"
+    };
+    
+    private String[] interests = {
+        "Exploring new technologies", 
+        "Building scalable solutions", 
+        "Learning cloud-based architectures"
+    };
 
----
+    public void introduce() {
+        System.out.println("👋 Hi, I'm " + name + "!");
+        System.out.println("🚀 Role: " + role);
+        System.out.println("📧 Contact: " + email);
+        
+        System.out.println("\n🌟 Skills:");
+        for (String skill : skills) {
+            System.out.println("- " + skill);
+        }
+        
+        System.out.println("\n🌱 Interests:");
+        for (String interest : interests) {
+            System.out.println("- " + interest);
+        }
+    }
 
-## 📈 GitHub Stats  
-![Maneesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonymous-leviathan&show_icons=true&theme=radical)  
+    public static void main(String[] args) {
+        ManeeshaGunawardhana me = new ManeeshaGunawardhana();
+        me.introduce();
+    }
+}
 
----
+```
 
 ## 📫 Connect with Me  
 - 💌 [maneesha.gunawardhana.contact@gmail.com](mailto:maneesha.gunawardhana.contact@gmail.com)  
