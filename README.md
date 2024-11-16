@@ -23,10 +23,7 @@ Explore our portfolio of successful projects on [GitHub]() or visit our [website
 ---
 
 ## 📫 Contact Us
-**📍 Address**: No 327, Sarasawi Asapuwa, Hapugala, Wackwella, Galle.  
 **📧 Email**: [maneesha.gunawardhana.contact@gmail.com](mailto:maneesha.gunawardhana.contact@gmail.com)  
 **📞 Phone**: [+94 71 733 1792]()  
-
-Follow us on [LinkedIn]() | [Twitter]() | [GitHub]()
 
 ---
