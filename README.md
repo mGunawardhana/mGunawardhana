@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maneesha Gunawardhana!  
+## 👋 Hi, I'm Maneesha Gunawardhana!  
 
 🚀 **Software Engineer | Tech Enthusiast | Problem Solver**  
 
