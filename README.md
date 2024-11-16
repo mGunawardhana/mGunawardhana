@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Maneesha Gunawardhana!  
 
-🚀 **Associate Software Engineer | Tech Enthusiast | Problem Solver**  
+🚀 **Software Engineer | Tech Enthusiast | Problem Solver**  
 
 ```java
 public class ManeeshaGunawardhana {
 
     private String name = "Maneesha Gunawardhana";
-    private String role = "Associate Software Engineer";
+    private String role = "Software Engineer";
     private String email = "maneesha.gunawardhana.contact@gmail.com";
     
     private String[] skills = {
