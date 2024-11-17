@@ -26,3 +26,7 @@ Explore our portfolio of successful projects on [GitHub]() or visit our [website
 **📞 Phone**: [+94 71 733 1792]()  
 
 ---
+
+## 🌏 Hire Me
+
+<img src="https://github.com/user-attachments/assets/f10c622c-5725-451e-9113-68da2590132e" alt="fiverr-new3326" width="300" height="200">
