@@ -21,7 +21,7 @@ Explore our portfolio of successful projects on [GitHub]() or visit our [website
 
 ---
 
-## 🌏 Hire Me [on Fiverr](https://www.fiverr.com/mgunawardhana27?public_mode=true)
+## 🌏 Hire Me 🐦‍🔥 [on Fiverr](https://www.fiverr.com/mgunawardhana27?public_mode=true)
 
 <div align="center">
   <img 
@@ -32,6 +32,7 @@ Explore our portfolio of successful projects on [GitHub]() or visit our [website
     style="border-radius: 8px;">
 </div>
 
+and be Cool ☃️ with your development.
 
 ---
 
