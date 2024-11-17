@@ -31,7 +31,7 @@ Explore our portfolio of successful projects on [GitHub]() or visit our [website
 
 ## 📫 Contact Me
 **📧 Email**: [maneesha.gunawardhana.contact@gmail.com](mailto:maneesha.gunawardhana.contact@gmail.com)  
-**📞 Phone**: [+94 71 733 1792]()  
+**📞 Phone**: [+94 71 904 3372]()  
 
 ---
 
